@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+numpy
+gTTS
+librosa
+soundfile
+pygame
+edge-tts
+pydub
